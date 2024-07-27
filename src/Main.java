@@ -1,6 +1,9 @@
 import java.util.ArrayList;
     public class Main {
-        public static void main(String[] args) {
+    public static void main(String[]  args) {
+        var. login = "Name";
+
+
             System.out.println("First API-JAVA");
         }
         //static void myInstructionPrintln() {

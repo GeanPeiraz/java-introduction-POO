@@ -41,7 +41,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "MyNewBranch",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -77,7 +77,7 @@
       <workItem from="1721832837271" duration="1357000" />
       <workItem from="1721839860331" duration="560000" />
       <workItem from="1721840432552" duration="724000" />
-      <workItem from="1721912962115" duration="3290000" />
+      <workItem from="1721912962115" duration="5507000" />
     </task>
     <servers />
   </component>
